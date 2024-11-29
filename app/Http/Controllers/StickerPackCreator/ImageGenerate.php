@@ -115,7 +115,7 @@ class ImageGenerate{
                 }
 
                 $square = new SVGRect($posX, $posY, $size["ceilSize"], $size["ceilSize"]);
-                $square->setStyle('stroke', '#0000FF');
+                $square->setStyle('stroke', '#FFFFFF');
                 $square->setStyle('fill', 'none');
                 $doc->addChild($square);
             }

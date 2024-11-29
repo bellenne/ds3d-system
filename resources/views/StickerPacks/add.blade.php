@@ -37,14 +37,19 @@
                 @include("header")
 
                 <div class="container-fluid">
-                    <h3 class="text-center">Автоматическая генерация наклеек под плоттер</h3>
-                    
-                    <a href="{{route("downloadStickers")}}?type=jpeg&filename={{$filename}}" target="_blank" class="d-block">Скачать наклейки</a>
-                    <a href="{{route("downloadStickers")}}?type=svg&filename={{$filename}}" target="_blank" class="d-block">Скачать контуры</a>
-                    
-                </div>
 
-            </div>
+                    <form action="{{route("uploadStickers")}}" class="mt-5" method="post" enctype="multipart/form-data">
+                        @csrf
+                        <div class="mb-3">    
+                            <input type="file" multiple name="files[]" id="formFile">
+                        </div>    
+                        <div class="mb-3">
+                            <input type="submit" class="btn btn-primary" value="Загрузить">
+                        </div>
+                    </form>
+
+                </div>  
         </div>
     </div>
-    @include("footer")
+</div>
+@include("footer")

@@ -34,12 +34,12 @@
             <!-- Main Content -->
             <div id="content">
                 
-                @include("header")
-
                 <div class="container-fluid">
+                    @include("header")
                     <h3 class="text-center">Автоматическая генерация наклеек под плоттер</h3>
                     
                     <a href="https://docs.google.com/spreadsheets/d/1_vTI-7xW9TeSKZi48UqsRndlprajOzp741YjStc29n8/edit?gid=0#gid=0" target="_blank" class="d-block mt-2">Шаблон таблицы для загрузки артикулов</a>
+                    <a href="{{route("addStickers")}}" class="d-block mt-2">Загрузить наклейки на сервер</a>
                     
                     <form action="/stickers/generate" method="GET" class="mt-5">
                         <div class="mb-3">
@@ -48,7 +48,7 @@
                         </div>
                         <div class="mb-3">
                             <label for="range" class="form-label">Диапазон с названием листа</label>
-                            <input type="text" name="range"  class="form-control" placeholder="Пример: Артикулы!A2:B1000">
+                            <input type="text" name="range"  class="form-control" placeholder="Пример: Артикулы!A2:B" value="Артикулы!A2:B">
                         </div>
                         <button type="submit" class="btn btn-primary">Сгенерировать</button>
                     </form>
