@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "planproizvodstva",
+  "private_key_id": "52b2dcef69136b73e819b0d7f89b8f7d12f93dff",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCy6tYSxc9t1ZlE\nGmQJnXQtG7vXoil3RpBeBhTmU77f714sHPmcQF5UhUZks7szUjCF/hYOu572a8yU\nQ1QWNOjrkghm/4u3u0wvk2WlEigrx19H9wpzfeTWL/iR7gIHnHb07D4Kj1xRv+gU\nBlbhoSbVoigjP2kq7g4afuEgZv3DYYm9uCpqN34dG8vREVBopbm8qVPs68ETh6vv\nQBnphbnRZXqIjUGJ0HaDPqOCUWpC5fwB/ffiVPrT7xxYHinXCX++0xrh8kJdjHlR\n3cZ87Dub76voxOw0NyZBuUcXRKdBf1aDHU3pYjQeuqbEFB4bZkSn5JS/OEjIyb/D\nKG19COTpAgMBAAECggEAVuNq8RT1hn6L/yHd4TmBGQL192N+RbmUFMVZUv3qnW/u\nyPeNVQ+BgAR1SiRqziKlA/2AEsmVClERuhL0fBBX6UczI2oJHUItXpFzdHXb4l7h\na96SScIi5s3HJn9ypuWac5ljC9fRWrYa69akTNDpPiiQ24VI+ps/aCikBgteQ4qC\n9sxjWjV3uvQiBLOO3VHZd1ea+EibHKHt/ZLCzniXkvq1W+doM35orEPjPA7xnkXb\noh9Sfaa69NbeOU+4T44mlvWjy83MLM++ET3mUFJrHZbqQV7bD2/3jBIIIJ9NZWON\nHSShaqYc+6JVQcNTK3QFGidrsfQqqms+sixI7bCBvQKBgQDrrT7uZHi2BVee8dSc\nJw7UCIkpfXvf/+GVNhb3G6mpGTXFn1jcHJ+0Q9DQvUZttS/D/qDVBqrHeDmnwLNX\nHgsPcO+w6iCVInqFvb4hXbrwVDGKqY4nA41plyOqG8HDt8I7kwMZrpd9K3ktsczZ\nhrr61BMPR35O+IyV/+00jzePvwKBgQDCWJShHb+aP+eG0Mtf+kEK97C6k1B7eDM2\n+T7A+Cg4fWsa58yHouJE5IZqkRi+VeDNQIr8tUFjnVQ3nMRC/ctOGjsxx933oMno\nLl2htaoIAzQzkVQ42FI7ZjGt6rJq6ZG28Zm6njJwN8SCnkVD/s80xKb7Bzs82eZd\nbjxpeLu1VwKBgQCBcO7eimpONtLwJoyKk10ukd2b3yLZXbXteP7WC+h8Sq9g8msg\nwcvpe1HGRB7ZhKlOcZyuQ/IqilrISyt1Drgua+4J8h2hK4W1zQgPVWamNufa69N6\nlBXoR6278XDT6SqSA+WxBlaH1gfBVCVZ2Aj8WNx7CN5Ty2mTvTPwKTTwCwKBgEi0\nJJ4FZ/lHcNDBaWO1VgHJWWbi11fpRpeJNI2yCDHh0WCWWLBhIe6N4y8Yqr4BmICQ\nZa5WDGk8oRXQ4qcBFL5aF8zurT4G+6GNPt/Q+xPWRwAHnQ9K9bBc8bbTNv3B9Q4Q\nYecraUkLw8rtdJIUT+W4r5L3SJTiG0jWhWkbjnUvAoGBAOCrZDDBAXZKKFXu+7CR\nzLsIXTTYLZBAUGIHSk5i818uGLDKK3OWpkv2ttszt/9+xGR+tBLPHGB6kTpdhpMo\nENogEoFKXE67SM9mNye+DEco9Is73VitVAYocj5dslDXHmaWcdu2bmBu5ToLvZlC\nyaBqvClBB4CtTsukuqkl2Ri1\n-----END PRIVATE KEY-----\n",
+  "client_email": "planproiz@planproizvodstva.iam.gserviceaccount.com",
+  "client_id": "116217976798432498030",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/planproiz%40planproizvodstva.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
